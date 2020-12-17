@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there It's Samir👋
 
-<!--
-**SamirGrover/SamirGrover** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on C++
+- 🌱 I’m currently learning Python,ML
+- 👯 I’m looking to collaborate on Machine Learning
+- 🤔 I’m looking for help with 
+- 💬 Ask me about C,C++,Python,Java
+- 📫 How to reach me: [SamirGrover](www.linkedin.com/in/SamirGrover786) or email me at: sgrover9056@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Still Exploring Life.
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://komarev.com/ghpvc/?username=SamirGrover)
+
+</div>
