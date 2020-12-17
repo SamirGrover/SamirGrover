@@ -31,5 +31,13 @@
 
 <!--![Top lang](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=SamirGrover&layout=compact&theme=radical)-->
 
+### Connect with me:
+[<img align="left" alt="Samir Grover" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" />][linkedin]
+[<img align="left" alt="SamirGrover | GitHub" width="22px" src="" />][github]
+[<img align="left" alt="Samir Grover | Instagram" width="22px" src="http://www.w3.org/2000/svg" />][instagram]
+<br/>
 
+[linkedin]: https://www.linkedin.com/in/samirgrover786/
+[instagram]: https://www.instagram.com/
+[github]: https://github.com/SamirGrover
 ⭐️ From [SamirGrover](https://github.com/SamirGrover)
