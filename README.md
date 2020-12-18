@@ -30,7 +30,7 @@
 ### 📊 GitHub Stats:
 ![Mehdi's github stats](https://github-readme-stats.vercel.app/api?username=SamirGrover&show_icons=true&hide_border=true&theme=dracula&count_private=true)
 
-<!--![Top lang](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=SamirGrover&layout=compact&theme=radical)-->
+[Top lang](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=SamirGrover&layout=compact&theme=radical)
 
 ### Connect with me:
 [<img align="left" alt="Samir Grover" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" />][linkedin]
