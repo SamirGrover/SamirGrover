@@ -17,15 +17,6 @@
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **Still Exploring Life.**
 
-### Languages and Tools:
-<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" alt="Android" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/></p>
  
 ### 📊 GitHub Stats:
 ![Mehdi's github stats](https://github-readme-stats.vercel.app/api?username=SamirGrover&show_icons=true&hide_border=true&theme=dracula&count_private=true)
@@ -35,7 +26,6 @@
 ### Connect with me:
 [<img align="left" alt="Samir Grover" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" />][linkedin]
 [<img align="left" alt="SamirGrover | GitHub" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/25/25231.svg" />][github]
-[<img align="left" alt="Samir Grover | Instagram" width="22px" src="https://cdn.worldvectorlogo.com/logos/instagram-2016.svg" />][instagram]
 <br/>
 
 [linkedin]: https://www.linkedin.com/in/samirgrover786/
