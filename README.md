@@ -9,7 +9,7 @@
 <br/>
 
 - 🔭 I’m currently working on **C++**
-- 🌱 I’m currently learning **Python,ML**
+- 🌱 I’m currently learning **Java,Android Development**
 - 👯 I’m looking to collaborate on **Machine Learning**
 - 🤔 I’m looking for help with **Data Structures**
 - 💬 Ask me about **C,C++,Python,Java**
